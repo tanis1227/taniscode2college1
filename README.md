@@ -4,7 +4,7 @@ Text Format	Sample Output
 # Introduction
 
 
-This is a repository created by Tanis
+This is a repository created by *Tanis*
 
 
 ## Usage
